@@ -42,16 +42,16 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://github.com/jamesmy
-[course]: https://github.com/jamesmy/warehouse
-[twitter]: https://github.com/jamesmy
-[youtube]: https://github.com/jamesmy
-[instagram]: https://github.com/jamesmy
-[linkedin]: https://github.com/jamesmy
-[webdevplaylist]: https://github.com/jamesmy
-[jsplaylist]: https://github.com/jamesmy
-[cssplaylist]: https://github.com/jamesmy
-[reactplaylist]: https://github.com/jamesmy
+[website]: https://github.com/
+[course]: https://github.com/
+[twitter]: https://github.com/
+[youtube]: https://github.com/
+[instagram]: https://github.com/
+[linkedin]: https://github.com/
+[webdevplaylist]: https://github.com/
+[jsplaylist]: https://github.com/
+[cssplaylist]: https://github.com/
+[reactplaylist]: https://github.com/
 
 
 
