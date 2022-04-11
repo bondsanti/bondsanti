@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#### Most Languages
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondsanti&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 ### Languages and Tools:
